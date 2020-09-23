@@ -41,7 +41,7 @@ pip install eel
 * Get the source code with this command:
 
 ```
-git clone <this-repo's-url>
+git clone https://github.com/Songtech-0912/PyDecider 
 ```
 
 * To run PyInstaller, just open the `build` folder, and double-click on the `main.py` file, or enter this into your terminal:
